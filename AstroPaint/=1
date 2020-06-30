@@ -1,0 +1,9 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... 
+The environment is inconsistent, please check the package plan carefully
+The following packages are causing the inconsistency:
+
+  - defaults/osx-64::anaconda==2019.07=py37_0
+  - defaults/osx-64::numba==0.44.1=py37h6440ff4_0
+failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: ...working... failed with repodata from current_repodata.json, will retry with next repodata source.
