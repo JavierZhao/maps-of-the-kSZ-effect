@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: AstroPaint
+Version: 0.1.1
+Summary: a python package for creating mock maps of astrophysical signals from halo catalog
+Home-page: https://github.com/syasini/AstroPaint
+Author: Siavash Yasini
+Author-email: yasini@usc.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
